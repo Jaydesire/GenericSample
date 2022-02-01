@@ -6,6 +6,7 @@ class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         List<String> list = new ArrayList<>();
+        System.out.println("GitTest");
 
         while (true) {
             System.out.println("Введите название задачи (для завершения введите 'end'):");
